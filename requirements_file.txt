@@ -1,0 +1,11 @@
+torch
+torchvision
+medmnist
+gradio
+google-genai
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+And please click the gradio.live link above for a better experience
