@@ -58,4 +58,4 @@ receives only the numbers, never the X-ray. https://ai.google.dev
 AI coding assistant: Claude (Anthropic) helped write the notebook code
 AI Support: Gemini(Google) provided answers and troubleshooted the code
 Judges: Please Review at https://youtu.be/fH91hx7HEpw
-> 
+Team Nexus: Jasper, Girikshith, Vihaan
